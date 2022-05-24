@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: f9c0119d01f798143bd718ba9f1ae65d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Source Code Pro
+  fontNames:
+  - Source Code Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 92e5a0f09b831fc489c65bb27f92e461, type: 3}
+  - {fileID: 12800000, guid: 105b7ad5d514e4e45a17ab6de1ce219e, type: 3}
+  - {fileID: 12800000, guid: 42cbfff692140bc4997ea21dadf9bbba, type: 3}
+  - {fileID: 12800000, guid: b121a9976d83f3549a73d6c5096a205c, type: 3}
+  - {fileID: 12800000, guid: 098f04683c580834baef8f5158fc685f, type: 3}
+  - {fileID: 12800000, guid: c2315e99c09c30f489d1e2b75b954435, type: 3}
+  - {fileID: 12800000, guid: a2451db93b0d2b54389f96a35253405c, type: 3}
+  - {fileID: 12800000, guid: 73c90b2bb44c4264283a7261e0b6f0fe, type: 3}
+  - {fileID: 12800000, guid: f10cb43bf82f2b346a656c66ff548c44, type: 3}
+  - {fileID: 12800000, guid: 87d72e5b44796474b9804307ccf61ac7, type: 3}
+  - {fileID: 12800000, guid: 47ad6eaf67613dc4f92f16aad0cb902f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
